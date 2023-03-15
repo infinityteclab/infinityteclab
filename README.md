@@ -12,7 +12,7 @@ Executivo e Dev de tecnologia da informação, com vasta experiência no desenvo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=infinityteclab&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityteclab&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Você pode me ajudar doando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=REVTNGQGXT2E2&no_recurring=0&item_name=Sua+doa%C3%A7%C3%A3o+ser%C3%A1+muito+importante+e+ajudar%C3%A1+nas+pesquisas+e+desenvolvimento+de+novas+pesquisa+de+tecnologia+para+o+dia+a+dia&currency_code=BRL) 
 
   
