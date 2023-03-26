@@ -15,6 +15,6 @@ Executivo e Dev de tecnologia da informação, com vasta experiência no desenvo
 [![](https://visitcount.itsvg.in/api?id=infinityteclab&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Doe e contribue para os projetos
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=REVTNGQGXT2E2&no_recurring=0&item_name=Sua+doa%C3%A7%C3%A3o+ser%C3%A1+muito+importante+e+ajudar%C3%A1+nas+pesquisas+e+desenvolvimento+de+novas+pesquisa+de+tecnologia+para+o+dia+a+dia&currency_code=BRL) ) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=REVTNGQGXT2E2&no_recurring=0&item_name=Sua+doa%C3%A7%C3%A3o+ser%C3%A1+muito+importante+e+ajudar%C3%A1+nas+pesquisas+e+desenvolvimento+de+novas+pesquisa+de+tecnologia+para+o+dia+a+dia&currency_code=BRL)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
