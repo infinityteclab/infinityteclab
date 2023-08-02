@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Executivo e Dev de tecnologia da informação, com vasta experiência no desenvolvimento de processos e soluções para o varejo. Tenho um forte background no desenvolvimento organizacional, planejamento estratégico, relatório financeiro e desenvolvimento de pessoal, o que me permite conduzir equipes de forma assertiva e atender às necessidades das empresas em que atuo.
+Executivo com conhecimentos de desenvolvimento e tecnologia da informação, com vasta experiência no desenvolvimento de processos e soluções para o varejo. Tenho um forte background no desenvolvimento organizacional, planejamento estratégico, relatório financeiro e desenvolvimento de pessoal, o que me permite conduzir equipes de forma assertiva e atender às necessidades das empresas em que atuo.
 
 
 ## 🌐 Redes Sociais:
